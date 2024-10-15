@@ -2,7 +2,7 @@
 
 A Simple Portfolio app build with Django.
 
-# Running the Project Locally
+# How to run the Project
 
 ## First, clone the repository to your local machine :
 
