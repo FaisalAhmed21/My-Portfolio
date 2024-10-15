@@ -4,7 +4,7 @@ A Simple Portfolio app build with Django.
 
 # How to run the Project
 
-## First, clone the repository to your local machine :
+## First, clone the repository in your device:
 
 ```bash
 git clone https://github.com/FaisalAhmed21/My-Portfolio.git
