@@ -1,6 +1,6 @@
 # My-Portfolio
 
-A Simple Portfolio app build with Django.
+A Simple Portfolio website build with the help of Django.
 
 # How to run the Project
 
